@@ -9,4 +9,5 @@ My project will feature:
 Current progress:
 
 Database - creating MySQL relational database for managing data of clients, their orders and processes 
+
 Backend - creating Python functions for operating MySQL database
